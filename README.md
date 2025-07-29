@@ -2,7 +2,9 @@
 
 📌 Project Overview
 This project addresses a real-world business problem:
-How can financial institutions identify high-risk loan applicants using data-driven insights?
+
+##### How can financial institutions identify high-risk loan applicants using data-driven insights?
+
 Using customer demographic, employment, savings, and loan-related attributes, this end-to-end analytics project explores and validates Risk Weightings (1 to 5) assigned to loan applicants. The goal is to enable banks and lenders to assess loan approval risk effectively and reduce chances of default.
 ________________________________________
 
@@ -12,8 +14,11 @@ ________________________________________
 
 🔍 Tools & Technologies
 •	SQL (MySQL): For data storage, transformation, and extraction
+
 •	Python (Pandas, Seaborn, Matplotlib): For data cleaning, EDA & statistical insights
+
 •	Power BI: For building multi-page interactive dashboards and reports
+
 •	DAX: For creating custom measures & validating logic
 ________________________________________
 
@@ -21,22 +26,39 @@ ________________________________________
 1.	Overview of Customer Portfolio
 
  • KPIs: Total customers, high-risk customers, avg income/savings
+ 
  • Risk category-wise customer distribution
+ 
  • Key filtering options
+ 
 2.	Risk Pattern Analysis
+   
  • Risk segmentation across demographics (age, job, education)
+ 
  • Visual correlations between savings/income and risk
+
  • Spot high-risk patterns across loan & personal factors
+ 
 3.	Risk Weighting Validation
+   
  • Statistical comparison of groups by risk levels
+ 
  • Visual validation of why risk categories are assigned
+ 
  • Helps identify anomalies or inconsistent risk tagging
+ 
 4.	Details
+   
  • Table-level drilldown view
+ 
  • Each customer’s complete profile with slicers
+ 
  • Ideal for case-level decisions
+ 
 5.	Tooltip Page
+   
  • Embedded pop-up for visual insights on hover
+ 
  • Summarizes applicant info dynamically
 ________________________________________
 
