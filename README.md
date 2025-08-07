@@ -87,4 +87,4 @@ To see the report in action:
 
 👉 [Power BI Report](https://app.powerbi.com/groups/me/reports/0da5017e-3764-4e41-b979-1e60433fcec4/780962a7ea836bec6190?experience=power-bi)
 
-👉 LinkedIn Post: 
+👉 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7356177018016694273/) 
